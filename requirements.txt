@@ -1,0 +1,20 @@
+# Manipulação de dados
+pandas
+numpy
+
+# Visualização de dados
+matplotlib
+seaborn
+
+# Modelos de Machine Learning
+scikit-learn
+
+# Bibliotecas para Redes Neurais
+tensorflow
+keras
+
+# Avaliação de Modelos
+scipy
+
+# Ferramentas para notebooks
+jupyterlab
